@@ -1,0 +1,59 @@
+[
+    {
+      "role": "Senior Software Engineer",
+      "organisation": "Salecto India Pvt. Ltd.",
+      "url": "https://salecto.com/",
+      "startDate": "May, 2020",
+      "endDate": "July, 2023",
+      "achievements": [
+        "Re-architected the existing system for Magento platforms to automate tasks of continuous integration and continuous delivery (CI/CD) using the Jenkins pipeline, which increased software development efficiencies and saved on average 28% of engineers’ time, allowing for faster time to market.",
+        "Developed and deployed a FastAPI-based RESTful messaging API with React, OpenAPI (SwaggerUI), and Redis, enhancing e-commerce client interactions by 40% through a centralized system.",
+        "Integrated SAML for enterprise single sign-on (SSO) with Google authentication, developed automated invoice billing calculations for clients, and built a full support ticket system to streamline customer service operations.",
+        "Automated monthly e-commerce client reports using cron jobs, analyzing earnings from organic traffic, SEO, leads, and marketing, and delivering insights via Cross integration to optimize business performance.",
+        "Integrated third-party APIs such as Bing and Google Analytics and implemented daily cron jobs for data storage and analysis, leading to a 34% increase in customer engagement and driving business growth."      ],
+      "technologies": ["Python", "DJango", "React", "Node.js", "Laravel", "Docker", "Jenkins", "Bash", "GCP", "REST API", "Github", "BitBucket", "Wrike"]
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "OTFCoder Pvt. Ltd.",
+      "url": "https://otfcoder.com/",
+      "startDate": "Apr, 2020",
+      "endDate": "Feb, 2019",
+      "achievements": [
+        "Built data-driven statistical models in to predict pregnancy success rates in the Progenesis lab’s portal, by analyzing healthcare data, visualization tool and efficient SQL querying.",
+        "Improved lab portal’s performance by 73% through code refactoring, database query optimization, and data normalization, resulting in faster data loading times and greater overall efficiency.",
+        "Implemented secure authentication using JWT, session management, and OAuth 2.0 for third-party logins. Integrated multi-factor authentication (MFA) and role-based access control (RBAC) to enhance platform security and user experience.",
+"Provided extensive and thorough written technical portal codebase documentation for purposes of knowledge transfer within the organization."
+      ],
+      "technologies": ["Python", "Laravel", "Bootstrap", "Jquery", "Redis", "AWS", "PostgreSQL", "Jira", "Trello"]
+
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "Dasinfomedia Pvt. Ltd.",
+      "url": "https://dasinfomedia.com/",
+      "startDate": "Jan, 2019",
+      "endDate": "Sep, 2017",
+      "achievements": [
+        "Engineered a scalable back-end codebase and developed reusable software components for the Content Management System (CMS), resulting in a 67% improvement in user experience across the company's product line.",
+        "Developed and customized the products, as per client requirements, which included responsive front-ends and back-ends, using Laravel, Vue.js and CSS frameworks (Bootstrap, Tailwind).",
+        "Implemented Single Sign-On (SSO) authentication for seamless user access across multiple services in Niftysol's SaaS platform.",
+        "Integrated Stripe and PayPal payment gateways via APIs to enable secure and efficient transactions."
+      ],
+      "technologies": ["PHP", "Laravel", "CakePHP", "Vue.js", "Tailwind", "Wordpress", "CMS",  "MySql", "CMS"]
+
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "Maxgen Technologies Pvt. Ltd.",
+      "url": "https://maxgentechnologies.com/",
+      "startDate": "July, 2016",
+      "endDate": "Feb, 2017",
+      "achievements": [
+        "Developed a comprehensive e-commerce platform, creating a seamless online shopping experience that effortlessly integrates with other business systems for streamlined operations and enhanced customer engagement.",
+        "Led knowledge-sharing sessions, provided technical support, and mentored interns on both client-side, server-side (full-stack) development."
+      ],
+      "technologies": ["CorePHP", "JavaScript", "HTML", "CSS", "XAMPP", "WAMP"]
+
+    }
+  ]
