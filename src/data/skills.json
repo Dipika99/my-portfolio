@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Backend Technologies",
+    "description": "Experienced in building scalable RESTful APIs, developing efficient server-side logic, enhancing database performance, and securing authentication processes.",
+    "icons": [
+      "python-plain",
+      "php-plain",
+      "nodejs-plain",
+      "django-plain",
+      "mongodb-plain",
+      "postgresql-plain",
+      "sqldeveloper-plain"
+
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "PostgreSQL",
+      "REST APIs"
+    ]
+  },
+  {
+    "title": "Frontend Tools",
+    "description": "Skilled in delivering responsive, high-performance web interfaces that offer intuitive user experiences, clean designs, and smooth animations for modern, engaging websites.",
+    "icons": [
+      "react-original",
+      "vuejs-plain",
+      "javascript-plain",
+      "tailwindcss-original",
+      "bootstrap-plain",
+      "sass-original",
+      "vitejs-plain"
+    ],
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Bootstrap",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "title": "DevOps & Tools",
+    "description": "Experienced in creating Jenkins pipelines for CI/CD and deploying solutions on AWS using EC2, S3, and Lambda. Skilled in Docker and Kubernetes for efficient cloud infrastructure and microservices management.",
+    "icons": [
+      "amazonwebservices-plain-wordmark ",
+      "googlecloud-plain",
+      "docker-plain",
+      "kubernetes-plain",
+      "grafana-plain",
+      "jenkins-plain",
+      "git-plain"
+    ],
+    "technologies": [
+      "Git",
+      "Docker",
+      "CI/CD",
+      "AWS"
+    ]
+  },
+  {
+    "title": "Soft Skills",
+    "description": "I am the coworker who mixes productivity with humor, turning challenges into fun team moments, while inspiring and motivating others to get things done with energy and enthusiasm!",
+    "icons": [
+      "trello-plain",
+      "jira-plain",
+      "slack-plain"
+    ],
+    "technologies": [
+      "Teamwork",
+      "Communication",
+      "Adaptability",
+      "Time Management"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+    {
+      "level": "Undergraduate",
+      "degree": "B.E. in Computer Engineering",
+      "institution": "Gujarat Technological University",
+      "year": "2012 - 2016",
+      "description": "Specialized in software engineering, hardware technologies, and distributed computing systems, building a strong foundation in designing and optimizing complex systems."
+    },{
+      "level": "Graduate",
+      "degree": "M.Sc. in Computer Science",
+      "institution": "New York Institute of Technology",
+      "year": "2023 - 2025",
+      "description": "Focused on theoretical computation, advanced algorithms, machine learning, and artificial intelligence, developing a strong foundation for solving complex computational problems."
+    }
+  ]

@@ -1,0 +1,17 @@
+[
+    
+  {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dipika-valvi/",
+      "icon": "bi bi-linkedin"
+  },{
+      "name": "GitHub",
+      "url": "https://github.com/Dipika99/",
+      "icon": "bi bi-github"
+  },{
+      "name": "Email",
+      "url": "mailto:dipikavalvi1508@gmail.com",
+      "icon": "bi bi-envelope"
+    }
+  ]
+  

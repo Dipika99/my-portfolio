@@ -1,0 +1,53 @@
+# Node modules (React, Vite, and other npm dependencies)
+node_modules/
+
+# Build output (Vite build directory)
+dist/
+
+# Dependency directories (common in monorepos or Lerna setup)
+.pnp/
+.pnp.js
+
+# Vite cache (caches from Vite build process)
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS system files
+.DS_Store
+
+# VSCode files and folders
+.vscode/
+
+# Env files (keep sensitive keys and configurations out of version control)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Package-lock and yarn lock (sometimes it's good to keep, but generally one lock file is preferred)
+package-lock.json
+yarn.lock
+
+# Build artifacts for deployment (if any)
+build/
+
+# Testing folders (if using testing libraries or Jest)
+coverage/
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Vite specific config
+.vitepress/
+
+# Other system-specific files
+Thumbs.db
