@@ -51,3 +51,4 @@ coverage/
 
 # Other system-specific files
 Thumbs.db
+node_modules

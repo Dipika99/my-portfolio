@@ -3,7 +3,6 @@ import projects from "../../data/projects.json";
 import education from "../../data/education.json";
 import { PageLayout } from "../../components/Body/PageLayout";
 import { getImageUrl } from "../../utils";
-import styles from './Education.module.css';
 
 export const Education = () => {
   return (
@@ -59,12 +58,16 @@ export const Education = () => {
                     </div>
                     </div>
                   </div>
-                  <div className={`text-center bg-dark card-footer ${styles.cardFooter}`}>
-                    <a href={project.link} className="btn btn-gradient-primary text-white fw-bold shadow-sm" rel="noopener noreferrer">
+                  <div className="text-center bg-dark card-footer">
+                    <a 
+                      href={project.source} 
+                      target="_blank" 
+                      rel="noopener noreferrer" 
+                      className="btn btn-gradient-primary text-white fw-bold shadow-sm"
+                    >
                       <i className="bi bi-box-arrow-up-right me-2"></i> View Project
                     </a>
                   </div>
-
                 </div>
               </div>
             ))}
