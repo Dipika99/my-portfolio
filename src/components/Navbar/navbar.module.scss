@@ -1,4 +1,4 @@
-@import "../../scss/__variables.scss";
+@use "../../scss/__variables.scss" as *;
 
 .navbarCustom {
     padding: 1rem 0;
