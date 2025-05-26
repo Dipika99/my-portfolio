@@ -1,7 +1,7 @@
 [
     {
       "title": "Credit Card Fruad Detection",
-      "imageSrc": "projects/credit-card.png",
+      "imageSrc": "assets/projects/credit-card.png",
       "description": "The Credit Card Fraud Detection project leverages machine learning and big data techniques to identify and prevent fraudulent transactions in real-time.",
       "skills": ["React", "Express", "Node"],
       "source": "https://github.com/Dipika99/credit-card-fraud-detection",
@@ -14,7 +14,7 @@
     },
     {
       "title": "Weather App",
-      "imageSrc": "projects/weather-app.png",
+      "imageSrc": "assets/projects/weather-app.png",
       "description": "The Weather App provides real-time weather updates based on the user's chosen city, offering detailed information on temperature, humidity, and forecasts.",
       "skills": ["React", "Express", "Node"],
       "source": "https://github.com/Dipika99/weather-app",
@@ -27,7 +27,7 @@
     },
     {
       "title": "Music Recommendation Spotify",
-      "imageSrc": "projects/music-recommendation.png",
+      "imageSrc": "assets/projects/music-recommendation.png",
       "description": "The Music Recommendation system suggests personalized tracks based on the user's preferences, enriching their listening experience by introducing songs that match their unique tastes and musical style.",
       "skills": ["React", "Express", "Node"],
       "source": "https://github.com/Dipika99/weather-app",

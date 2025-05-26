@@ -1,8 +1,5 @@
-import React from "react";
 import skills from "../../data/skills.json";
 import about from "../../data/about.json";
-
-import { getImageUrl } from "../../utils";
 import { PageLayout } from "../../components/Body/PageLayout";
 
 export const About = () => {
@@ -14,7 +11,7 @@ export const About = () => {
         <div className="row g-3 align-items-center">
           <div className="col-md-4 text-center">
             <img
-              src={getImageUrl("about/aboutImage.png")}
+              src="/assets/about/aboutImage.png"
               alt="My Profile"
               className="img-fluid"
               style={{ maxWidth: '250px' }}

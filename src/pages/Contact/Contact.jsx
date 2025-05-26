@@ -1,4 +1,3 @@
-import React from 'react';
 import { PageLayout } from "../../components/Body/PageLayout";
 import { SocialIcons } from "../../components/Social/SocialIcons";
 import { ContactForm } from "./ContactForm";

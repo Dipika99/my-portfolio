@@ -1,8 +1,6 @@
-import React from "react";
 import projects from "../../data/projects.json";
 import education from "../../data/education.json";
 import { PageLayout } from "../../components/Body/PageLayout";
-import { getImageUrl } from "../../utils";
 
 export const Education = () => {
   return (
@@ -43,7 +41,7 @@ export const Education = () => {
               <div className="col-md-6 col-lg-4" key={index}>
                 <div className="card bg-dark h-100 shadow-lg border-0">
                   <img
-                    src={getImageUrl(project.imageSrc || "https://dummyimage.com/600x400/000/fff")}
+                    src={(project.imageSrc || "https://dummyimage.com/600x400/000/fff")}
                     className="card-img-top"
                     alt={project.title}
                   />

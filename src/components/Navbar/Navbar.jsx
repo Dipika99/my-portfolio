@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
-import { getImageUrl } from "../../utils";
 import styles from './Navbar.module.scss';
 
 export const Navbar = () => {
@@ -19,15 +18,7 @@ export const Navbar = () => {
         aria-label="Toggle navigation"
         onClick={() => setMenuOpen(!menuOpen)}
       >
-        <img
-          src={
-            menuOpen
-              ? getImageUrl("nav/closeIcon.png")
-              : getImageUrl("nav/menuIcon.png")
-          }
-          alt="menu-button"
-          className={styles.menuIcon}
-        />
+        <span className="navbar-toggler-icon"></span>
       </button>
       <div
         className={`collapse navbar-collapse ${
