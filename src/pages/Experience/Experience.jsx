@@ -18,7 +18,7 @@ export const Experience = () => {
         </div>
 
         {/* Work Experience Cards */}
-        <div className="row g-4">
+        <div className="row g-4 mb-5">
           {history.map((job, index) => (
           <div key={index} className="col-md-12">
             <div className="card h-100 p-3 bg-light1 bg-dark shadow-lg border-0">
