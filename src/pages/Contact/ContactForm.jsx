@@ -23,6 +23,9 @@ export const ContactForm = () => {
       .then(
         () => {
           setAlert({ type: 'success', message: 'Email sent successfully! Will be contacting you shortly.' });
+
+          form.current?.reset?.();
+
         },
         (error) => {
           setAlert({ type: 'danger', message: 'Failed to send email: ' + error.text });

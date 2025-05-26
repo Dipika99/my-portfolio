@@ -30,7 +30,7 @@
       "imageSrc": "assets/projects/music-recommendation.png",
       "description": "The Music Recommendation system suggests personalized tracks based on the user's preferences, enriching their listening experience by introducing songs that match their unique tastes and musical style.",
       "skills": ["React", "Express", "Node"],
-      "source": "https://github.com/Dipika99/weather-app",
+      "source": "https://github.com/Dipika99/music-recommendation-spotify",
       "demo": "https://music-recommendation-spotify-5634.streamlit.app",
       "icons": [
         "python-plain",
